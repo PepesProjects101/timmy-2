@@ -7,3 +7,5 @@ A custom standalone ESP32 handheld device featuring a 320×240 landscape TFT dis
 * **Display:** Waveshare 2" ST7789V 240×320 TFT LCD (landscape orientation)
 * **Storage & Audio:** Micro SD card reader and passive buzzer audio
 * **Enclosure:** Perfboard Screwed Together
+
+*The original Timmy 1 was similar but only had a monochrome 0.96 64x128 oled, and only had pong and tic tac toe at the time, and had the weaker arduino nano instead of Esp32 DK v1
